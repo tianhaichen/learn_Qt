@@ -9,8 +9,6 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-
-
 class Ui_Widget(object):
     def setupUi(self, Widget):
         Widget.setObjectName("Widget")
@@ -102,11 +100,11 @@ class Ui_Widget(object):
         self.spinTotal.setPrefix(_translate("Widget", "$ "))
 
 
-if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    Widget = QtWidgets.QWidget()
-    ui = Ui_Widget()
-    ui.setupUi(Widget)
-    Widget.show()
-    sys.exit(app.exec_())
+# if __name__ == "__main__":
+#     import sys
+#     app = QtWidgets.QApplication(sys.argv)
+#     Widget = QtWidgets.QWidget()
+#     ui = Ui_Widget()
+#     ui.setupUi(Widget)
+#     Widget.show()
+#     sys.exit(app.exec_())
