@@ -99,12 +99,3 @@ class Ui_Widget(object):
         self.label_6.setText(_translate("Widget", "自动计算总价"))
         self.spinTotal.setPrefix(_translate("Widget", "$ "))
 
-
-# if __name__ == "__main__":
-#     import sys
-#     app = QtWidgets.QApplication(sys.argv)
-#     Widget = QtWidgets.QWidget()
-#     ui = Ui_Widget()
-#     ui.setupUi(Widget)
-#     Widget.show()
-#     sys.exit(app.exec_())
