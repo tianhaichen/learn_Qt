@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>images/322.bmp</file>
+    <file>images/324.bmp</file>
+    <file>images/app.ico</file>
+    <file>images/132.bmp</file>
+  </qresource>
+</RCC>
