@@ -35,6 +35,15 @@ class QmyWidget(QWidget):
         total = num * price
         self.ui.editTotal.setText("%.2f" %total)
 
+    @pyqtSlot(int)    ##"数量"SpinBox
+    def on_spinCount_valueChanged(self,count):
+      price=self.ui.spinPrice.value()
+      self.ui.spinTotal.setValue(count*price)
+
+    @pyqtSlot(float)     ##"单价" DoubleSpinBox
+    def on_spinPrice_valueChanged(self,price):
+      count=self.ui.spinCount.value()
+      self.ui.spinTotal.setValue(count*price)
 
 if __name__ == "__main__":
     import sys
