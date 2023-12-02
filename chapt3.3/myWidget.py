@@ -73,6 +73,7 @@ class QmyWidget(QWidget, Ui_Widget):
 
     def do_valueChanged(self,value):
         self.ui.progressBar.setValue(value)
+
 ##  ============窗体测试程序 ===============================
 if  __name__ == "__main__":         #用于当前窗体测试
     app = QApplication(sys.argv)    #创建GUI应用程序

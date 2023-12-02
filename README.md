@@ -1,5 +1,4 @@
 # pythonProject
-update
 # 本项目是学习pyqt-ui开发的练习文件。
 
 chapt3.3 是学习QSlider和QProgressBar
