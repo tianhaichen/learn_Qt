@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project Widget -->
+<!-- Saved: 2023-12-02, 22:57:03 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="2" uid="{51eb4275-5d5c-4064-b682-1c725f7b1353}">
+    <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
+    <Description></Description>
+    <Created>2023-12-02, 22:56:46</Created>
+    <Resource>
+      <Filename>Ui_Widget.py</Filename>
+      <Linenumber>7</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{f0aa1817-7e2d-4fa9-a172-13f013a87601}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-02, 22:56:46</Created>
+    <Resource>
+      <Filename>myWidget.py</Filename>
+      <Linenumber>41</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{2188edaa-cb48-4639-9fdf-4a8d95c36075}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-02, 22:56:46</Created>
+    <Resource>
+      <Filename>myWidget.py</Filename>
+      <Linenumber>54</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{de1db0aa-9952-4315-9a07-5a26f0505a7f}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-02, 22:56:46</Created>
+    <Resource>
+      <Filename>myWidget.py</Filename>
+      <Linenumber>72</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
