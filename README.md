@@ -24,3 +24,7 @@ QAction是直接从QObject继承而来的一个类，不是
 ![](./images/img.png)
 
 学习参考书为《PyQt 5快速开发与实战》
+
+## 12.1 PyQtChart
+
+![img.png](./images/img12.1.png)
