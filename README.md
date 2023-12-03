@@ -7,4 +7,6 @@ chapt3.4 是学习日期时间数据
 
 chapt3.5 学习定时器QTimer
 
+chapt3.6 下拉列表框QComboBox
+
 学习参考书为《PyQt 5快速开发与实战》
