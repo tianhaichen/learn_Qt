@@ -23,6 +23,10 @@ QAction是直接从QObject继承而来的一个类，不是
 
 ![](./images/img.png)
 
+## chapt3.8 QListWidget和QToolButton
+
+![img.png](./images/img3.8.png)
+
 学习参考书为《PyQt 5快速开发与实战》
 
 ## 12.1 PyQtChart

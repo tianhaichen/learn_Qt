@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project ListWidget -->
+<!-- Saved: 2023-12-06, 22:57:44 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="2" uid="{37e7af8a-92e0-4422-9394-c89aca7aa169}">
+    <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
+    <Description></Description>
+    <Created>2023-12-06, 22:25:58</Created>
+    <Resource>
+      <Filename>Ui_MainWindow.py</Filename>
+      <Linenumber>7</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{7e7b5669-de06-4cd1-bc11-89cd05bc95da}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-06, 22:25:58</Created>
+    <Resource>
+      <Filename>myMainWindow.py</Filename>
+      <Linenumber>53</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{b5514188-3830-49fa-8fb1-d50f2d74bcc3}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-06, 22:25:58</Created>
+    <Resource>
+      <Filename>myMainWindow.py</Filename>
+      <Linenumber>64</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{84a94594-5ede-4c0f-b5b0-142bbd36ea8f}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-06, 22:25:58</Created>
+    <Resource>
+      <Filename>myMainWindow.py</Filename>
+      <Linenumber>77</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{3831908a-dc01-4a7f-8927-7e1cedc78581}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-06, 22:25:58</Created>
+    <Resource>
+      <Filename>myMainWindow.py</Filename>
+      <Linenumber>85</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{b5b9b84d-98a1-4741-8eaf-0e7821586b2c}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-06, 22:25:58</Created>
+    <Resource>
+      <Filename>myMainWindow.py</Filename>
+      <Linenumber>94</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{cf7bed24-4b55-432a-976f-9a80fcc69e1e}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-06, 22:25:58</Created>
+    <Resource>
+      <Filename>myMainWindow.py</Filename>
+      <Linenumber>102</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{4dc49e96-3320-4cf8-a525-f2db69e66d43}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-06, 22:25:58</Created>
+    <Resource>
+      <Filename>myMainWindow.py</Filename>
+      <Linenumber>110</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{f5e7e5ff-78ad-4ccf-bb7f-65bae87cff9f}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-06, 22:25:58</Created>
+    <Resource>
+      <Filename>myMainWindow.py</Filename>
+      <Linenumber>118</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{e77e25b3-fb90-4ba4-a5e7-74d43bdfea9a}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-06, 22:25:58</Created>
+    <Resource>
+      <Filename>myMainWindow.py</Filename>
+      <Linenumber>126</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{9eeec50b-983e-48c4-8cf4-04632cb3cea8}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-06, 22:25:58</Created>
+    <Resource>
+      <Filename>myMainWindow.py</Filename>
+      <Linenumber>134</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{dbe43558-03e1-4d62-aef1-f8a6b73634ca}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2023-12-06, 22:25:58</Created>
+    <Resource>
+      <Filename>myMainWindow.py</Filename>
+      <Linenumber>142</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
