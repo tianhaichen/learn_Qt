@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
 <!-- eric project file for project mainWidget -->
-<!-- Saved: 2023-12-07, 22:38:59 -->
+<!-- Saved: 2023-12-09, 14:01:14 -->
 <!-- Copyright (C) 2023 ,  -->
 <Project version="5.1">
   <Language>en_US</Language>
@@ -13,7 +13,10 @@
   <Email></Email>
   <Eol index="0"/>
   <Sources>
+    <Source>Ui_MainWindow.py</Source>
     <Source>__init__.py</Source>
+    <Source>myMainWindow.py</Source>
+    <Source>res_rc.py</Source>
   </Sources>
   <Forms>
     <Form>MainWindow.ui</Form>

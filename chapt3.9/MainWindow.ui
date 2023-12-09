@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>952</width>
-    <height>442</height>
+    <width>956</width>
+    <height>451</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -99,7 +99,7 @@
          <string>图片文件</string>
         </property>
         <property name="icon">
-         <iconset resource="res.qrc">
+         <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
           <normaloff>:/images/icons/15.ico</normaloff>:/images/icons/15.ico</iconset>
         </property>
         <item>
@@ -107,7 +107,7 @@
           <string>分组节点</string>
          </property>
          <property name="icon">
-          <iconset resource="res.qrc">
+          <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
            <normaloff>:/images/icons/open3.bmp</normaloff>:/images/icons/open3.bmp</iconset>
          </property>
          <item>
@@ -115,7 +115,7 @@
            <string>图片节点</string>
           </property>
           <property name="icon">
-           <iconset resource="res.qrc">
+           <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
             <normaloff>:/images/icons/31.ico</normaloff>:/images/icons/31.ico</iconset>
           </property>
           <property name="text">
@@ -128,7 +128,7 @@
           <string>分组2</string>
          </property>
          <property name="icon">
-          <iconset resource="res.qrc">
+          <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
            <normaloff>:/images/icons/open3.bmp</normaloff>:/images/icons/open3.bmp</iconset>
          </property>
          <item>
@@ -136,7 +136,7 @@
            <string>图片2</string>
           </property>
           <property name="icon">
-           <iconset resource="res.qrc">
+           <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
             <normaloff>:/images/icons/31.ico</normaloff>:/images/icons/31.ico</iconset>
           </property>
          </item>
@@ -152,8 +152,8 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>952</width>
-     <height>26</height>
+     <width>956</width>
+     <height>23</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuPic">
@@ -211,7 +211,7 @@
   <widget class="QStatusBar" name="statusBar"/>
   <action name="actTree_AddFolder">
    <property name="icon">
-    <iconset resource="res.qrc">
+    <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
      <normaloff>:/images/icons/open3.bmp</normaloff>:/images/icons/open3.bmp</iconset>
    </property>
    <property name="text">
@@ -226,7 +226,7 @@
   </action>
   <action name="actTree_AddFiles">
    <property name="icon">
-    <iconset resource="res.qrc">
+    <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
      <normaloff>:/images/icons/824.bmp</normaloff>:/images/icons/824.bmp</iconset>
    </property>
    <property name="text">
@@ -244,7 +244,7 @@
     <bool>false</bool>
    </property>
    <property name="icon">
-    <iconset resource="res.qrc">
+    <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
      <normaloff>:/images/icons/418.bmp</normaloff>:/images/icons/418.bmp</iconset>
    </property>
    <property name="text">
@@ -262,7 +262,7 @@
     <bool>false</bool>
    </property>
    <property name="icon">
-    <iconset resource="res.qrc">
+    <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
      <normaloff>:/images/icons/416.bmp</normaloff>:/images/icons/416.bmp</iconset>
    </property>
    <property name="text">
@@ -280,7 +280,7 @@
     <bool>false</bool>
    </property>
    <property name="icon">
-    <iconset resource="res.qrc">
+    <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
      <normaloff>:/images/icons/414.bmp</normaloff>:/images/icons/414.bmp</iconset>
    </property>
    <property name="text">
@@ -295,7 +295,7 @@
     <bool>false</bool>
    </property>
    <property name="icon">
-    <iconset resource="res.qrc">
+    <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
      <normaloff>:/images/icons/424.bmp</normaloff>:/images/icons/424.bmp</iconset>
    </property>
    <property name="text">
@@ -313,7 +313,7 @@
     <bool>false</bool>
    </property>
    <property name="icon">
-    <iconset resource="res.qrc">
+    <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
      <normaloff>:/images/icons/delete1.bmp</normaloff>:/images/icons/delete1.bmp</iconset>
    </property>
    <property name="text">
@@ -325,7 +325,7 @@
   </action>
   <action name="actClose">
    <property name="icon">
-    <iconset resource="res.qrc">
+    <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
      <normaloff>:/images/icons/exit.bmp</normaloff>:/images/icons/exit.bmp</iconset>
    </property>
    <property name="text">
@@ -340,7 +340,7 @@
     <bool>false</bool>
    </property>
    <property name="icon">
-    <iconset resource="res.qrc">
+    <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
      <normaloff>:/images/icons/426.bmp</normaloff>:/images/icons/426.bmp</iconset>
    </property>
    <property name="text">
@@ -352,7 +352,7 @@
   </action>
   <action name="actTree_ScanItems">
    <property name="icon">
-    <iconset resource="res.qrc">
+    <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
      <normaloff>:/images/icons/fold.bmp</normaloff>:/images/icons/fold.bmp</iconset>
    </property>
    <property name="text">
@@ -370,7 +370,7 @@
     <bool>false</bool>
    </property>
    <property name="icon">
-    <iconset resource="res.qrc">
+    <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
      <normaloff>:/images/icons/414.bmp</normaloff>:/images/icons/414.bmp</iconset>
    </property>
    <property name="text">
@@ -388,7 +388,7 @@
     <bool>false</bool>
    </property>
    <property name="icon">
-    <iconset resource="res.qrc">
+    <iconset resource="../../PythonQt-DemoFullCode2020/chap03Widgets/Demo3_9TreeDock/QtApp/res.qrc">
      <normaloff>:/images/icons/814.bmp</normaloff>:/images/icons/814.bmp</iconset>
    </property>
    <property name="text">
